@@ -13,6 +13,12 @@ public class CreateBoxHandler(IEventStore eventStore)
         var boxStream = GetStream<Box>(command.BoxId);
         var box = boxStream.GetEntity();
         
+        if (box.IsCreated)
+        {
+            boxStream.Append(new FailedToCreateBox(FailedToCreateBox.FailReason.BoxItWasAlreadyCreated));
+            return;
+        }
+        
         var capacity = BoxCapacity.Create(command.DesiredNumberOfSpots);
         boxStream.Append(new BoxCreated(capacity));
     }

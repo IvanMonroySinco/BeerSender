@@ -34,4 +34,5 @@ public class Box : AggregateRoot
     }
 
     public bool IsFull => BeerBottles.Count >= Capacity?.NumberOfSpots;
+    public bool IsCreated => Capacity != null;
 }
