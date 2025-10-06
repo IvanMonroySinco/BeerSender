@@ -2,6 +2,14 @@ namespace BeerSender.Domain.Boxes;
 
 public record BoxCreated(BoxCapacity Capacity);
 
+public record FailedToCreateBox(FailedToCreateBox.FailReason Reason)
+{
+    public enum  FailReason
+    {
+        BoxItWasAlreadyCreated
+    }
+}
+
 public record BeerBottleAdded(BeerBottle Bottle);
 
 public record FailedToAddBeerBottle(FailedToAddBeerBottle.FailReason Reason)
