@@ -12,7 +12,7 @@ public class OpenBoxRepository(ReadStoreConnection dbConnection)
     {
         const string insertCommand = """
                                      INSERT INTO [dbo].[OpenBoxes]
-                                     (BoxId, Capacity) VALUES (@BoxId, @Capacity)
+                                     (BoxId, Capacity, AvailableSpots) VALUES (@BoxId, @Capacity, @Capacity)
                                      """;
 
         Connection.Execute(
@@ -25,7 +25,7 @@ public class OpenBoxRepository(ReadStoreConnection dbConnection)
     {
         const string updateCommand = """
                                      UPDATE [dbo].[OpenBoxes]
-                                     SET [NumberOfBottles] = [NumberOfBottles] + 1
+                                     SET [NumberOfBottles] = [NumberOfBottles] + 1, [AvailableSpots] = [Capacity] - ( [NumberOfBottles] +1 )
                                      WHERE BoxId = @BoxId
                                      """;
 

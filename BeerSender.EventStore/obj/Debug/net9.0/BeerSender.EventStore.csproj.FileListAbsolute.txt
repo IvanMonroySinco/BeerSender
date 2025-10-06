@@ -29,3 +29,19 @@ C:\FuentesNET3.0\Ejemplos\BeerSender\BeerSender.EventStore\obj\Debug\net9.0\Beer
 C:\FuentesNET3.0\Ejemplos\BeerSender\BeerSender.EventStore\obj\Debug\net9.0\refint\BeerSender.EventStore.dll
 C:\FuentesNET3.0\Ejemplos\BeerSender\BeerSender.EventStore\obj\Debug\net9.0\BeerSender.EventStore.pdb
 C:\FuentesNET3.0\Ejemplos\BeerSender\BeerSender.EventStore\obj\Debug\net9.0\ref\BeerSender.EventStore.dll
+C:\Users\julian.vargas\Desktop\Event Sourcing\BeerSender\BeerSender.EventStore\bin\Debug\net9.0\BeerSender.EventStore.deps.json
+C:\Users\julian.vargas\Desktop\Event Sourcing\BeerSender\BeerSender.EventStore\bin\Debug\net9.0\BeerSender.EventStore.dll
+C:\Users\julian.vargas\Desktop\Event Sourcing\BeerSender\BeerSender.EventStore\bin\Debug\net9.0\BeerSender.EventStore.pdb
+C:\Users\julian.vargas\Desktop\Event Sourcing\BeerSender\BeerSender.EventStore\bin\Debug\net9.0\BeerSender.Domain.dll
+C:\Users\julian.vargas\Desktop\Event Sourcing\BeerSender\BeerSender.EventStore\bin\Debug\net9.0\BeerSender.Domain.pdb
+C:\Users\julian.vargas\Desktop\Event Sourcing\BeerSender\BeerSender.EventStore\obj\Debug\net9.0\BeerSender.EventStore.csproj.AssemblyReference.cache
+C:\Users\julian.vargas\Desktop\Event Sourcing\BeerSender\BeerSender.EventStore\obj\Debug\net9.0\BeerSender.EventStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julian.vargas\Desktop\Event Sourcing\BeerSender\BeerSender.EventStore\obj\Debug\net9.0\BeerSender.EventStore.AssemblyInfoInputs.cache
+C:\Users\julian.vargas\Desktop\Event Sourcing\BeerSender\BeerSender.EventStore\obj\Debug\net9.0\BeerSender.EventStore.AssemblyInfo.cs
+C:\Users\julian.vargas\Desktop\Event Sourcing\BeerSender\BeerSender.EventStore\obj\Debug\net9.0\BeerSender.EventStore.csproj.CoreCompileInputs.cache
+C:\Users\julian.vargas\Desktop\Event Sourcing\BeerSender\BeerSender.EventStore\obj\Debug\net9.0\BeerSender.EventStore.sourcelink.json
+C:\Users\julian.vargas\Desktop\Event Sourcing\BeerSender\BeerSender.EventStore\obj\Debug\net9.0\BeerSend.6288C414.Up2Date
+C:\Users\julian.vargas\Desktop\Event Sourcing\BeerSender\BeerSender.EventStore\obj\Debug\net9.0\BeerSender.EventStore.dll
+C:\Users\julian.vargas\Desktop\Event Sourcing\BeerSender\BeerSender.EventStore\obj\Debug\net9.0\refint\BeerSender.EventStore.dll
+C:\Users\julian.vargas\Desktop\Event Sourcing\BeerSender\BeerSender.EventStore\obj\Debug\net9.0\BeerSender.EventStore.pdb
+C:\Users\julian.vargas\Desktop\Event Sourcing\BeerSender\BeerSender.EventStore\obj\Debug\net9.0\ref\BeerSender.EventStore.dll

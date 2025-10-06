@@ -23,3 +23,16 @@ C:\FuentesNET3.0\Ejemplos\BeerSender\BeerSender.Domain\obj\Debug\net9.0\BeerSend
 C:\FuentesNET3.0\Ejemplos\BeerSender\BeerSender.Domain\obj\Debug\net9.0\refint\BeerSender.Domain.dll
 C:\FuentesNET3.0\Ejemplos\BeerSender\BeerSender.Domain\obj\Debug\net9.0\BeerSender.Domain.pdb
 C:\FuentesNET3.0\Ejemplos\BeerSender\BeerSender.Domain\obj\Debug\net9.0\ref\BeerSender.Domain.dll
+C:\Users\julian.vargas\Desktop\Event Sourcing\BeerSender\BeerSender.Domain\bin\Debug\net9.0\BeerSender.Domain.deps.json
+C:\Users\julian.vargas\Desktop\Event Sourcing\BeerSender\BeerSender.Domain\bin\Debug\net9.0\BeerSender.Domain.dll
+C:\Users\julian.vargas\Desktop\Event Sourcing\BeerSender\BeerSender.Domain\bin\Debug\net9.0\BeerSender.Domain.pdb
+C:\Users\julian.vargas\Desktop\Event Sourcing\BeerSender\BeerSender.Domain\obj\Debug\net9.0\BeerSender.Domain.csproj.AssemblyReference.cache
+C:\Users\julian.vargas\Desktop\Event Sourcing\BeerSender\BeerSender.Domain\obj\Debug\net9.0\BeerSender.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julian.vargas\Desktop\Event Sourcing\BeerSender\BeerSender.Domain\obj\Debug\net9.0\BeerSender.Domain.AssemblyInfoInputs.cache
+C:\Users\julian.vargas\Desktop\Event Sourcing\BeerSender\BeerSender.Domain\obj\Debug\net9.0\BeerSender.Domain.AssemblyInfo.cs
+C:\Users\julian.vargas\Desktop\Event Sourcing\BeerSender\BeerSender.Domain\obj\Debug\net9.0\BeerSender.Domain.csproj.CoreCompileInputs.cache
+C:\Users\julian.vargas\Desktop\Event Sourcing\BeerSender\BeerSender.Domain\obj\Debug\net9.0\BeerSender.Domain.sourcelink.json
+C:\Users\julian.vargas\Desktop\Event Sourcing\BeerSender\BeerSender.Domain\obj\Debug\net9.0\BeerSender.Domain.dll
+C:\Users\julian.vargas\Desktop\Event Sourcing\BeerSender\BeerSender.Domain\obj\Debug\net9.0\refint\BeerSender.Domain.dll
+C:\Users\julian.vargas\Desktop\Event Sourcing\BeerSender\BeerSender.Domain\obj\Debug\net9.0\BeerSender.Domain.pdb
+C:\Users\julian.vargas\Desktop\Event Sourcing\BeerSender\BeerSender.Domain\obj\Debug\net9.0\ref\BeerSender.Domain.dll

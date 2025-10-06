@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "e/IzyJ3sUPA=",
+  "dgSpecHash": "8/diZu1Ofp8=",
   "success": true,
-  "projectFilePath": "C:\\FuentesNET3.0\\Ejemplos\\BeerSender\\BeerSender.Domain\\BeerSender.Domain.csproj",
+  "projectFilePath": "C:\\Users\\julian.vargas\\Desktop\\Event Sourcing\\BeerSender\\BeerSender.Domain\\BeerSender.Domain.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\ivan.monroy\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.0\\microsoft.extensions.dependencyinjection.abstractions.9.0.0.nupkg.sha512"
+    "C:\\Users\\julian.vargas\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.0\\microsoft.extensions.dependencyinjection.abstractions.9.0.0.nupkg.sha512"
   ],
   "logs": []
 }
